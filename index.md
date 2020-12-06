@@ -1,5 +1,5 @@
-### 欢迎来到FILLAHMG主页
-# [Fillahmg](https://github.com/fillahmg)
+# 欢迎来到FILLAHMG主页
+## [Fillahmg](https://github.com/fillahmg)
 这是一个mod作者的名字
 
 这是一个服务器的名字
@@ -20,11 +20,11 @@ mod:
 
 POTATOMOD
 
-## Minecraft mod：：[POTATOMOD](github.com/Fillahmg/POTATOMOD)
+## Minecraft mod：：[POTATOMOD](https://github.com/Fillahmg/POTATOMOD)
 这个mod添加了以土豆为基础的武器，方块，地形，生物。目前版本1.2。
 
 也是1.12.2 forge2768以上.
-更多请看[github.com/Fillahmg/POTATOMOD](github.com/Fillahmg/POTATOMOD)
+更多请看[github.com/Fillahmg/POTATOMOD](https://github.com/Fillahmg/POTATOMOD)
 
 
 ##制作团队
@@ -33,4 +33,4 @@ POTATOMOD
 
 材质师:FiLL
 
-#### (@FILLAHMG,lzw,12.6)[https://github.com/fillahmg]
+#### (@FILLAHMG lzw 12.6)[https://github.com/fillahmg]
