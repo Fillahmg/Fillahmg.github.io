@@ -6,7 +6,7 @@
 
 这一是一个制作团队的名字
 
-## [Fillahmg mc 生存服](fillahmg.github.io/mcserver)
+## [Fillahmg mc 生存服](https://fillahmg.github.io/mcserver)
 这是一个minecraft生存服务器。支持离线账号。
 
 使用了forge2768.
