@@ -33,4 +33,4 @@ POTATOMOD
 
 材质师:FiLL
 
-#### (@FILLAHMG lzw 12.6)[https://github.com/fillahmg]
+#### [@FILLAHMG lzw 12.6](https://github.com/fillahmg)
